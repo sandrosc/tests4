@@ -27,3 +27,13 @@ title: HSR tests overview
 ## Software-Engineering 2 (Mi. 29. August) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=1199)
 
 ## Physik Anwendungen für Informatik (Do. 30. August) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=1317)
+
+- Hilfsmittel:
+  - Taschenrechner
+  - Gedruckte Formelsammlung (evtl. mit persönlichen Ergänzungen) und Lehrbuch.
+  - Persönlich verfasste Notizen (bis zu 14 A4-Seiten)
+  - Verboten sind: Kopierte Musterlösungen, Laptops und Handys.
+- Die Lösungen sind so zu dokumentieren, dass der Lösungsweg nachvollzogen werden kann. Ein richtiges Resultat alleine ergibt keine Punkte.
+- Bei Benutzung der solve-Funktion des Taschenrechners sind die Ausgangsgleichun-gen in gebräuchlicher Notation anzugeben.
+- Sofern angegeben, sind die Symbole zur Bezeichnung der physikalischen Grössen aus der Aufgabenstellung zu übernehmen.
+- Vergessen Sie nie, bei den Resultaten die korrekten Einheiten anzugeben.
