@@ -8,7 +8,9 @@ title: HSR tests overview
 
 ## Web Engineering und Design 3 (Fr. 17. August)
 
-## Parallele Programmierung (Mo. 20. August)
+## Parallele Programmierung (Mo. 20. August) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Parallele_Programmierung/ParProg/)
+
+- Erlaubte Hilfsmittel: Ein A4-Blatt beidseitig bedruckt oder beschrieben
 
 ## Advanced Patterns und Frameworks (Di. 21. August)
 
@@ -22,6 +24,6 @@ title: HSR tests overview
   > Part 1 of the exam will consist of questions from Farhad Mehta, and will be in English (answering is German is permitted)
   > Part 2 of the exam will consist of question from Thomas Bocek, and will be in German (answering is English is permitted)
 
-## Software-Engineering 2 (Mi. 29. August)
+## Software-Engineering 2 (Mi. 29. August) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=1199)
 
-## Physik Anwendungen für Informatik (Do. 30. August)
+## Physik Anwendungen für Informatik (Do. 30. August) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=1317)
