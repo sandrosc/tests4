@@ -26,6 +26,8 @@ title: HSR tests overview
 
 ## Software-Engineering 2 (Mi. 29. August) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=1199)
 
+The written examination will be closed book, apart from one double sided A4 "summary sheet" that you may bring and keep with you during the examination. Other combinations with the same surface area (e.g. 2 single sided A4 sheets, 2 double sided A5 sheets, etc.) are not allowed. Please state your name on your summary sheet. You will be required to submit your summary sheet at the end of your examination, so please make a copy of this beforehand so that you can keep it for your future reference.
+
 ## Physik Anwendungen für Informatik (Do. 30. August) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=1317)
 
 - Hilfsmittel:
