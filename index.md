@@ -16,6 +16,12 @@ title: HSR tests overview
 
 ## Prüfung Informationssicherheit 3 (Fr. 24. August)
 
+- keine Hilfsmittel
+- Steffen:
+  - symantec internet report 2017 lesen
+  - sicherer software entwicklungsprozess (microsoft)
+  - trennung identity und service provider
+
 ## Verteilte SW-Systeme (Di. 28. August) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=1198)
 
 - keine Hilfsmittel
